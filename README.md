@@ -24,7 +24,7 @@ This application is covered under the MIT license, to learn more about this lice
 ## Installation
 
 Please see below if there are any specific instructions to run this application. 
-Hit Instal to download the application.
+Hit install to download the application.
 
 ## Usage
 
@@ -40,3 +40,5 @@ No test right now.
 
 If you would like to learn more about Text Editor. Check out my github here: (https://github.com/skelly2022)
 Feel free to reach me via email if you have any additional questions! 
+
+![](./client/screen.png)
