@@ -6,6 +6,8 @@
 
 This application serves as a text editor that can be installed, ideally to run without service.
 
+Link to deployed application =  https://getyourtexthere.herokuapp.com/
+
 ## Table of Contents
 
 - [License](#license)
